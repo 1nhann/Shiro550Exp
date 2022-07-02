@@ -1,7 +1,7 @@
 # Shiro550Exp
 
 ```java
-import myframework.HttpRequest;
+import ysoserial.payloads.util.HttpRequest;
 import ysoserial.payloads.CommonsBeanutils183;
 import ysoserial.payloads.Shiro_550;
 import ysoserial.payloads.rceecho.TomcatEcho3;
